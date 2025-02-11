@@ -1,0 +1,9 @@
+<svg id="_" data-name="#" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="BG" width="40" height="40" rx="12" fill="#219a22" opacity="0.16"/>
+  <g id="_ic_check" data-name="🥬/ ic_check" transform="translate(8 8)">
+    <g id="_gr" data-name="#gr">
+      <rect id="Rectangle" width="24" height="24" fill="#219a22" opacity="0"/>
+      <path id="Shape" d="M10,20A10,10,0,1,1,20,10,10.012,10.012,0,0,1,10,20ZM6.5,8.894a1,1,0,0,0-.79,1.615l2.44,3.111A1,1,0,0,0,8.934,14H8.94a1.007,1.007,0,0,0,.79-.389l4.57-6V7.579a1.006,1.006,0,0,0-1.6-1.22l-3.779,5L7.289,9.281A1,1,0,0,0,6.5,8.894Z" transform="translate(2 2)" fill="#219a22"/>
+    </g>
+  </g>
+</svg>
